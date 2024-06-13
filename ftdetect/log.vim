@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.log set filetype=log
+au BufNewFile,BufRead *.log,*.INFO,*.info,*.log.* set filetype=log
